@@ -2,27 +2,6 @@
 
 Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a focus on **AI, ML**, and **Bioinformatics**.
 
-# 🚀 My Pinned Repositories
-
-## [Computer Graphics and Animations - Modern OpenGL](https://github.com/AudityGhosh/Computer_Graphics_and_Animations_Modern_OpenGL)
-This folder contains the lab works of CSE 4202 (Sessional Based On Computer Graphics and Animations). All credit goes to our instructors and the website [learnopengl.com](https://learnopengl.com).
-
-## [Neural Network Notebooks](https://github.com/AudityGhosh/Neural_Network_Notebooks)
-This repository contains implementations of various neural network algorithms. The owner of the repository is grateful to the writer of the book "Neural Computing- An Introduction".
-
-## [Face Recognition Attendance Management System](https://github.com/AudityGhosh/Face_Recognition_Attendance_Management_System)
-A face recognition attendance management system using Python and OpenCV, under the course CSE 3200.
-
-## [Online Programming Judges Solutions](https://github.com/AudityGhosh/Online_Programming_Judges_Solutions)
-This repository contains solutions to problems from various online programming judges. The solutions are written in multiple programming languages, including C++, Python, and JavaScript.
-
-## [Audi Used Car Analysis](https://github.com/AudityGhosh/audi_used_car_analysis)
-This repository was used to conduct data visualization for Audi's dataset.
-
-## [HackerRank Solutions](https://github.com/AudityGhosh/HackerRank_Solutions)
-This repository contains solutions to various HackerRank problems in Python. The solutions are designed to help you understand the logic behind solving common algorithmic and programming challenges.
-
-
 ### 🚀 About Me:
 - 🎓 **B.Sc. in Computer Science & Engineering** from **Rajshahi University of Engineering & Technology (RUET)** with **CGPA: 3.79/4.00**.
 - 💻 Exploring **GANs**, **NLP**, **Computer Vision**, **Edge AI**, **Human Computer Interaction**, **Augmented Reality** and **Cybersecurity**.
