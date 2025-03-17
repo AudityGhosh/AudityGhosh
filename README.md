@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a teacher and **Computer Science & Engineering** graduate with a focus on **AI, ML**, and **Bioinformatics**.
 
 ### 🚀 About Me:
-- 👩‍🏫 ** Lecturer, Computer Science & Engineering, University of Information Technology and Sciences
+- 👩‍🏫 **Lecturer, Computer Science & Engineering, University of Information Technology and Sciences**
 - 🎓 **B.Sc. in Computer Science & Engineering** from **Rajshahi University of Engineering & Technology (RUET)** with **CGPA: 3.79/4.00**.
 - 💻 Exploring **GANs**, **NLP**, **Computer Vision**, **Edge AI**, **Human Computer Interaction**, **Augmented Reality** and **Cybersecurity**.
 - 🌱 Working on my thesis: **Text-to-Image Generation** using **GANs**.
