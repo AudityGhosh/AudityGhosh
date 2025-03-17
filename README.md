@@ -1,8 +1,9 @@
 # Hi there, I'm [Audity Ghosh](https://github.com/AudityGhosh) 👋
 
-Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a focus on **AI, ML**, and **Bioinformatics**.
+Welcome to my GitHub! I'm a teacher and **Computer Science & Engineering** graduate with a focus on **AI, ML**, and **Bioinformatics**.
 
 ### 🚀 About Me:
+- 👩‍🏫 ** Lecturer, Computer Science & Engineering, University of Information Technology and Sciences
 - 🎓 **B.Sc. in Computer Science & Engineering** from **Rajshahi University of Engineering & Technology (RUET)** with **CGPA: 3.79/4.00**.
 - 💻 Exploring **GANs**, **NLP**, **Computer Vision**, **Edge AI**, **Human Computer Interaction**, **Augmented Reality** and **Cybersecurity**.
 - 🌱 Working on my thesis: **Text-to-Image Generation** using **GANs**.
@@ -12,8 +13,8 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** graduate with a f
 ![Audity's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AudityGhosh&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ### 🛠️ Technologies:
-- **Languages**: Python, C++, SQL
-- **Frameworks & Tools**: PyTorch, Scikit-Learn, OpenCV, Git, MySQL, Visual Studio Code, Jupyter, Microsoft Azure, Microsoft Office 
+- **Languages**: Python, C++, Java, SQL
+- **Frameworks & Tools**: PyTorch, Scikit-Learn, OpenCV, Git, MySQL, Visual Studio Code, Jupyter, Microsoft Azure, Microsoft Office, OpenGL
 - **Web**: HTML, CSS
 
 ### 🔗 Connect with Me:
