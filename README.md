@@ -63,6 +63,9 @@ Welcome to my GitHub! I'm a teacher and **Computer Science & Engineering** gradu
 ---
 
 ### 💼 Work Experience:
+- **Lecturer** - **Computer Science & Engineering**
+  **University of Information Technology & Sciences**
+  - Courses: Computer Graphics and Multimedia, Simulation and Modeling, Object Oriented Programming, Computer Programming, Digital Image Processing
 - **Junior ML Engineer** – **Omdena Local Chapter Challenge**  
   **AudioShield: Detecting Deepfake Voices**  
   - Built a real-time deepfake detection app using **ML** and **DL**.
